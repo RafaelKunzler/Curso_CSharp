@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\bin\Debug\net6.0\Aula131.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\bin\Debug\net6.0\Aula131.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\bin\Debug\net6.0\Aula131.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\bin\Debug\net6.0\Aula131.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\bin\Debug\net6.0\Aula131.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\obj\Debug\net6.0\Aula131.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\obj\Debug\net6.0\Aula131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\obj\Debug\net6.0\Aula131.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\obj\Debug\net6.0\Aula131.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\obj\Debug\net6.0\Aula131.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\obj\Debug\net6.0\Aula131.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\obj\Debug\net6.0\refint\Aula131.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\obj\Debug\net6.0\Aula131.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\obj\Debug\net6.0\Aula131.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula131\Aula131\obj\Debug\net6.0\ref\Aula131.dll
