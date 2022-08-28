@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\obj\Debug\net6.0\Aula 135.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\obj\Debug\net6.0\Aula 135.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\obj\Debug\net6.0\Aula 135.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\obj\Debug\net6.0\Aula 135.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\obj\Debug\net6.0\Aula 135.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\bin\Debug\net6.0\Aula 135.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\bin\Debug\net6.0\Aula 135.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\bin\Debug\net6.0\Aula 135.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\bin\Debug\net6.0\Aula 135.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\bin\Debug\net6.0\Aula 135.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\obj\Debug\net6.0\Aula 135.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\obj\Debug\net6.0\refint\Aula 135.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\obj\Debug\net6.0\Aula 135.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\obj\Debug\net6.0\Aula 135.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 9 - Enumeracoes e composicao\Aula 135\Aula 135\obj\Debug\net6.0\ref\Aula 135.dll

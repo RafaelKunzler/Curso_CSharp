@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\bin\Debug\net6.0\Aula142.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\bin\Debug\net6.0\Aula142.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\bin\Debug\net6.0\Aula142.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\bin\Debug\net6.0\Aula142.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\bin\Debug\net6.0\Aula142.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\obj\Debug\net6.0\Aula142.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\obj\Debug\net6.0\Aula142.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\obj\Debug\net6.0\Aula142.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\obj\Debug\net6.0\Aula142.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\obj\Debug\net6.0\Aula142.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\obj\Debug\net6.0\Aula142.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\obj\Debug\net6.0\refint\Aula142.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\obj\Debug\net6.0\Aula142.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\obj\Debug\net6.0\Aula142.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\Programação\C#\Exercicios C#\Cap 10 - Herança e polimorfismo\Aula142\Aula142\obj\Debug\net6.0\ref\Aula142.dll
