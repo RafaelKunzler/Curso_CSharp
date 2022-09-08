@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ContractPaymentFee.Interface
+namespace Interface
 {
-    internal class IOnlinePaymentService
+    interface IOnlinePaymentService
     {
+        double PaymentFee(double amount);
+        double Interest(double amount, int months);
     }
 }
